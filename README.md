@@ -8,7 +8,7 @@ Lastly, follow [these](https://pages.github.com/) instructions if you want to st
 
 ## Synopsis
 
-A summary of your project. This is the 150 word description from your proposal. Include your project banner and photos of team members.
+The aim of this project is the development and implementation of a low-cost rodent physiology monitor which is suitable for a wide range of animal experiments and imaging applications. Parameters such as Heart Rate (HR), Respiratory Rate (RR), and Temperature will be presented to the user and can be fed (via an interface) into other systems. These include Magnetic Resonance Imaging (MRI) and Computed Tomography (CT) which often require gating information such as HR and RR to reduce motion artefacts. The rodents (primarily mice) will be placed in a bed which contains all the required sensors therefore removing the need for any further setup by the user. The bed will be designed to be compatible with scenarios ranging from anesthesia induction to image acquisition. Existing solutions are in the cost range of several thousand pounds and do not support the holistic workflow required in animal experiments.
 
 ## Software
 
@@ -24,4 +24,4 @@ Provide instructions on usage, describe a test scheme and show how to run the te
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.) you have chosen to use
+This project is published under the GNU General Public License v3.0. You can find the license in the corresponding project folder.
