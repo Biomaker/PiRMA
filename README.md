@@ -1,4 +1,4 @@
-![PiRMA Banner](PiRMA_Git.png)
+![PiRMA Banner](PiRMA.png)
 
 ## Team Members
 
