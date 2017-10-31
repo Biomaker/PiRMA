@@ -1,5 +1,5 @@
 ![PiRMA Banner](PiRMA_Git.png)
-![PiRMA Members](PiRMA_Members.png =250x)
+<img src="PiRMA_Members.png" alt="Drawing" width="571" height="243"/>
 
 ## Synopsis
 
