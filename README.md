@@ -14,8 +14,10 @@ Explain functionality of software components (if any) as concisely as possible, 
 
 ## Hardware
 
-<img src="hardware/Hardware-prototype.jpg" alt="Prototype" height="500"/>
+<img src="hardware/Hardware-prototype.jpg" alt="Prototype" width="100%"/>
 Explain how the hardware components (if any) of your project function as concisely as possible, including a short description of fabrication and assembly. Component suppliers and part numbers should be provided separately in a bill of materials, in a 'Hardware Folder'.
+
+<img src="schematic.png" alt="Electronics" width="100%"/>
 
 ## Installation, Maintenance and Testing Guide
 
