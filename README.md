@@ -10,18 +10,19 @@ The aim of this project is the development and implementation of a low-cost rode
 
 ## Software
 
-Explain functionality of software components (if any) as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Ideally, this should be pseudo code or an abstract graphical representation of your code e.g entity relationship diagram. Consider adding a screenshot of your User Interface.
+The provided software reads out the data from the differential pressure sensor, the temperature sensor and the pulse oximeter. It then displays the values in the serial plotter of the Arduino software. In this implementation, the peak detection is hardcoded by a fixed threshold. A future version will include dynamic peak detection in Matlab (and Python).  
 
 ## Hardware
 
 <img src="hardware/Hardware-prototype.jpg" alt="Prototype" width="100%"/>
-Explain how the hardware components (if any) of your project function as concisely as possible, including a short description of fabrication and assembly. Component suppliers and part numbers should be provided separately in a bill of materials, in a 'Hardware Folder'.
+
+After connection of electronic components (as seen above or below), the differential pressure sensor can either be left open on the second vent or closed. If closed, the software has to compensate for the difference in pressure by measuring it and resetting the respiration threshold
 
 <img src="schematic.png" alt="Electronics" width="100%"/>
 
 ## Installation, Maintenance and Testing Guide
 
-Provide instructions on usage, describe a test scheme and show how to run the tests with code and hardware configuration examples with some representative results.
+A picture of a successful implementation with a readout of the pressure sensor can be seen here:
 
 ## License
 
